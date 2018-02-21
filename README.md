@@ -7,7 +7,7 @@ This project scrapes a data off of the NCBI GEO and runs statistical analysis. T
 This script serves as a web scraper. It isolates the datasets provided on the NCBI GEO website and saves them into a csv file. 
 
 ### R Script 
-The R script takes the csv file from the Python script and runs a t-test on the two groups (either castrated or uncastrated). It uses the p-values calculated from the t-test along with fold change between the two groups to highlight the up- and down-regulated genes between the datasets through generation of a heatmap. 
+The R script takes the csv file from the Python script and runs a t-test on the two groups (either castrated or uncastrated). It uses the p-values calculated from the t-test along with fold change between the two groups to highlight the up- and down-regulated genes between the datasets through generation of a volcano plot and heatmap. 
 
 ## How to use
 
