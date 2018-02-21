@@ -29,7 +29,6 @@ xcode-select --install
 Uncomment the first few lines as needed to install packages before running the shell script. 
 ```R
 # install.packages("tidyverse")
-# install.packages("tidyr")
 # install.packages("gplots")    
 # install.packages("RColorBrewer")
 ```

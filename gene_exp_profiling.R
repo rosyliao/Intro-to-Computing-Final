@@ -1,11 +1,9 @@
 # install packages 
 # install.packages("tidyverse")
-# install.packages("tidyr")
 # install.packages("gplots")    
 # install.packages("RColorBrewer")
 
 library(tidyverse)
-library(tidyr)
 library(gplots)
 library(RColorBrewer)
 
