@@ -1,0 +1,8 @@
+# ignore these files
+
+*.csv
+*.pyc
+*.Rout
+*.Rhistory
+*.pdf
+*.txt
